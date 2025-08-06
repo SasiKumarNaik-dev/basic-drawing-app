@@ -1,4 +1,4 @@
-#preview of the drawing app
+# preview of the drawing app
 
 <img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/9d4c3e14-5ea3-4be7-9c40-c369fc1cb3bd" />
 
